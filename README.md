@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @igalang251093
+- 👋 Hi, I’m Iván Galán from Mexico
 - 👀 I’m interested in firmware development
-- 🌱 I’m currently learning microcontrollers programming and FPGA
+- 🌱 I’m currently improving my microcontroller and FPGA programming skills.
 
 <!---
 igalang251093/igalang251093 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
